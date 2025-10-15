@@ -108,3 +108,17 @@ without impacting other parts of the program
 or even thousand of code source
 - BP - write the primary source code file in each program main cpp
 which source code file is the primary one
+
+
+
+################################# 0.4 — Introduction to C/C+
+
+- before we can write and execute our first C++ program
+we need to understand in more detail how C++, get developed
+
+define the problem -> design solution -> write -> compile
+-> link object files -> test program -> debug ( return to compile again 
+repeat step )
+
+- comming up with the initial idea for what you would like to program can be easiest
+step, or the hardest but conceptually, it is simplest
