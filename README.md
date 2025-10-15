@@ -4,8 +4,6 @@ Source: https://www.learncpp.com/
 
 If you are the copyright owner and would like this content removed, please contact me directly. rhidzkhan.ahmad99@gmail.com
 
-
-
 #Introduction to programs and programming language
 - the term platform refers ta compatible set of hardware and software
 that provides environment for software to run
@@ -33,6 +31,8 @@ and should be installed where the program runs
 - a program designed to run on multiple platforms is said to be cross platform 
 - high level language are easier
 
+###Introduction to C/C++
+
 #What is C++ good at
 - video games
 - real time system 
@@ -41,3 +41,43 @@ and should be installed where the program runs
 - embedded software 
 - video audio processing 
 - Ai and nueral networks
+
+
+###Introduction to C/C++
+
+#Define the problem that you would like to solve
+- this "what" steps. where you figure out what problem you are intending to solve
+
+#Determine how you are going to solve problem 
+- good solution have the following charactheristic
+    - straight forward and not complicated
+    - well documented ( especially around any assumption being made or limitation)
+    - built modularly, so parts can be reused or changed later without limiting
+    - they can recover gracefully or give usefull error message when something unexepected happens
+
+
+- if you dont plan it and start coding right away, you will have bug
+
+
+
+
+
+###### NEW
+
+
+################## Introduction to the compiler, linker, and libraries
+
+#Define the problem to solve -> Design a solution ->
+Write a program that implements the solution -> compile the program
+
+### Compiling your source code
+
+- In order to compile c++ source code files, we use a C++ compiler.
+- it does two task
+
+#Two task 
+- first the compiler checks your C++ code to make sure it follows the rules of C++
+If not, the compiler will give you an error ( and the corresponding line number )
+to help pinpoint what needs fixing. the compilation process will aso be aborted until the error is fixed
+
+- translate your C++ code into machine language instruction. These instruction are stored in object file
