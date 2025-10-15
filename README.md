@@ -34,7 +34,7 @@ and should be installed where the program runs
 - high level language are easier
 
 
-######## 0.3 — Introduction to C/C+
+################################# 0.3 — Introduction to C/C+
 
 ### Before there was C
 
