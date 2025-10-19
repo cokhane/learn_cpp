@@ -122,3 +122,11 @@ repeat step )
 
 - comming up with the initial idea for what you would like to program can be easiest
 step, or the hardest but conceptually, it is simplest
+
+
+### Compiling your source 
+
+- in order to compile source code files, we use C++ compiler,
+- it does two things, 
+    - check the code to make sure you follow the rules.
+    - compiles to machine language
